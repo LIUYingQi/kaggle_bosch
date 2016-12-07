@@ -1,0 +1,3 @@
+# kaggle_bosch
+first time try kaggle competition,it's not a really good result,just ranking 1000,-_-'''
+maybe next time .........  
